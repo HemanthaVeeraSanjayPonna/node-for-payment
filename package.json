@@ -1,0 +1,20 @@
+{
+  "name": "fnode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "payment.js",
+  "scripts": {
+    "start": "node payment.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "razorpay": "^2.0.6",
+    "shortid": "^2.2.16"
+  },
+  "engines": {
+    "node": "12.16.3"
+  }
+}
